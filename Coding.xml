@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2021-09-27T08:49:43Z</date>
+	<key>Application Version</key><string>1.1.6.37</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/alex/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>DD998D13EA4F7D80</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1795</key>
+		<dict>
+			<key>Track ID</key><integer>1795</integer>
+			<key>Name</key><string>Bangarang (feat. Sirah)</string>
+			<key>Artist</key><string>Skrillex</string>
+			<key>Album Artist</key><string>Skrillex</string>
+			<key>Composer</key><string>Skrillex</string>
+			<key>Album</key><string>Bangarang</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7591628</integer>
+			<key>Total Time</key><integer>215253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-02-12T15:41:43Z</date>
+			<key>Date Added</key><date>2015-02-12T15:41:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3712332195</integer>
+			<key>Play Date UTC</key><date>2021-08-20T17:23:15Z</date>
+			<key>Release Date</key><date>2011-12-23T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bangarang</string>
+			<key>Sort Artist</key><string>Skrillex</string>
+			<key>Sort Name</key><string>Bangarang (feat. Sirah)</string>
+			<key>Persistent ID</key><string>FC0F6B97219B73A5</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>2702</key>
+		<dict>
+			<key>Track ID</key><integer>2702</integer>
+			<key>Name</key><string>Glad You Came</string>
+			<key>Artist</key><string>We Came As Romans</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Punk Goes Pop, Vol. 5</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6782360</integer>
+			<key>Total Time</key><integer>183480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2014-03-27T21:32:43Z</date>
+			<key>Date Added</key><date>2014-03-27T21:32:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3713717387</integer>
+			<key>Play Date UTC</key><date>2021-09-05T18:09:47Z</date>
+			<key>Release Date</key><date>2012-11-05T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Punk Goes Pop, Vol. 5</string>
+			<key>Sort Artist</key><string>We Came As Romans</string>
+			<key>Sort Name</key><string>Glad You Came</string>
+			<key>Persistent ID</key><string>65708679ABCE0FA6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>2823</key>
+		<dict>
+			<key>Track ID</key><integer>2823</integer>
+			<key>Name</key><string>bad guy</string>
+			<key>Artist</key><string>Billie Eilish</string>
+			<key>Album Artist</key><string>Billie Eilish</string>
+			<key>Composer</key><string>FINNEAS &#38; Billie Eilish</string>
+			<key>Album</key><string>WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7155654</integer>
+			<key>Total Time</key><integer>194088</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-01-06T18:43:12Z</date>
+			<key>Date Added</key><date>2020-01-06T18:43:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>75</integer>
+			<key>Play Date</key><integer>3713717203</integer>
+			<key>Play Date UTC</key><date>2021-09-05T18:06:43Z</date>
+			<key>Release Date</key><date>2019-03-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?</string>
+			<key>Sort Artist</key><string>Billie Eilish</string>
+			<key>Sort Name</key><string>bad guy</string>
+			<key>Persistent ID</key><string>8AEE959CDDD4CB4F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2847</key>
+		<dict>
+			<key>Track ID</key><integer>2847</integer>
+			<key>Name</key><string>Summit (feat. Ellie Goulding)</string>
+			<key>Artist</key><string>Skrillex</string>
+			<key>Album Artist</key><string>Skrillex</string>
+			<key>Composer</key><string>Skrillex</string>
+			<key>Album</key><string>Bangarang</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12773897</integer>
+			<key>Total Time</key><integer>373987</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2020-01-29T17:50:59Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-12-23T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bangarang</string>
+			<key>Sort Artist</key><string>Skrillex</string>
+			<key>Sort Name</key><string>Summit (feat. Ellie Goulding)</string>
+			<key>Persistent ID</key><string>6D021236EB0E9443</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2850</key>
+		<dict>
+			<key>Track ID</key><integer>2850</integer>
+			<key>Name</key><string>Scary Monsters and Nice Sprites</string>
+			<key>Artist</key><string>Skrillex</string>
+			<key>Album Artist</key><string>Skrillex</string>
+			<key>Composer</key><string>Skrillex</string>
+			<key>Album</key><string>Scary Monsters and Nice Sprites</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8630927</integer>
+			<key>Total Time</key><integer>243354</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2020-01-29T17:51:10Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-10-22T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Scary Monsters and Nice Sprites</string>
+			<key>Sort Artist</key><string>Skrillex</string>
+			<key>Sort Name</key><string>Scary Monsters and Nice Sprites</string>
+			<key>Persistent ID</key><string>DAD6D5D0BA32C64D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2853</key>
+		<dict>
+			<key>Track ID</key><integer>2853</integer>
+			<key>Name</key><string>Sorry Not Sorry (Acoustic)</string>
+			<key>Artist</key><string>Demi Lovato</string>
+			<key>Album Artist</key><string>Demi Lovato</string>
+			<key>Composer</key><string>Demi Lovato, Sean Douglas, William Zaire Simmons, Warren Felder &#38; Trevor David Brown</string>
+			<key>Album</key><string>Tell Me You Love Me (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7224900</integer>
+			<key>Total Time</key><integer>205540</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-01-29T17:52:29Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-09-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tell Me You Love Me (Deluxe)</string>
+			<key>Sort Artist</key><string>Demi Lovato</string>
+			<key>Sort Name</key><string>Sorry Not Sorry (Acoustic)</string>
+			<key>Persistent ID</key><string>5FBBCF36CE591EB8</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2856</key>
+		<dict>
+			<key>Track ID</key><integer>2856</integer>
+			<key>Name</key><string>Old Town Road (feat. Billy Ray Cyrus) [Remix]</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Billy Ray Cyrus, Montero Lamar Hill, Michael Trent Reznor, Atticus Matthew Ross &#38; Jocelyn Donald</string>
+			<key>Album</key><string>7 - EP</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5779325</integer>
+			<key>Total Time</key><integer>157067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-01-29T21:41:03Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-04-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>7 - EP</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>Old Town Road (feat. Billy Ray Cyrus) [Remix]</string>
+			<key>Persistent ID</key><string>EA71FCCDAB14113C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2859</key>
+		<dict>
+			<key>Track ID</key><integer>2859</integer>
+			<key>Name</key><string>Shape of You</string>
+			<key>Artist</key><string>Ed Sheeran</string>
+			<key>Album Artist</key><string>Ed Sheeran</string>
+			<key>Composer</key><string>Ed Sheeran, Steve Mac, Johnny McDaid, Kandi Burruss, Kevin Briggs &#38; Tameka Cottle</string>
+			<key>Album</key><string>÷ (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8181583</integer>
+			<key>Total Time</key><integer>233713</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-01-29T21:41:16Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-01-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>÷ (Deluxe)</string>
+			<key>Sort Artist</key><string>Ed Sheeran</string>
+			<key>Sort Name</key><string>Shape of You</string>
+			<key>Persistent ID</key><string>ED38D2B9F34D06EC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2862</key>
+		<dict>
+			<key>Track ID</key><integer>2862</integer>
+			<key>Name</key><string>Good as Hell</string>
+			<key>Artist</key><string>Lizzo</string>
+			<key>Album Artist</key><string>Lizzo</string>
+			<key>Composer</key><string>Eric Frederic &#38; Melissa Jefferson</string>
+			<key>Album</key><string>Coconut Oil - EP</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5829137</integer>
+			<key>Total Time</key><integer>159736</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2020-01-31T18:44:00Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-10-07T12:00:00Z</date>
+			<key>Disliked</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Coconut Oil - EP</string>
+			<key>Sort Artist</key><string>Lizzo</string>
+			<key>Sort Name</key><string>Good as Hell</string>
+			<key>Persistent ID</key><string>6E247F330122EC76</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2865</key>
+		<dict>
+			<key>Track ID</key><integer>2865</integer>
+			<key>Name</key><string>Havana (feat. Young Thug)</string>
+			<key>Artist</key><string>Camila Cabello</string>
+			<key>Album Artist</key><string>Camila Cabello</string>
+			<key>Composer</key><string>Camila Cabello, Jeffery Williams, Pharrell Williams, Adam Feeney, Brittany Hazzard, Ali Tamposi, Brian Lee, Andrew Watt, Louis Bell &#38; Kaan Gunesberk</string>
+			<key>Album</key><string>Camila</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7727076</integer>
+			<key>Total Time</key><integer>217309</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-02-01T02:34:50Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-08-03T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Camila</string>
+			<key>Sort Artist</key><string>Camila Cabello</string>
+			<key>Sort Name</key><string>Havana (feat. Young Thug)</string>
+			<key>Persistent ID</key><string>2C03DC7ED2A7759F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2868</key>
+		<dict>
+			<key>Track ID</key><integer>2868</integer>
+			<key>Name</key><string>Shape of You</string>
+			<key>Artist</key><string>Walk Off the Earth</string>
+			<key>Album Artist</key><string>Walk Off the Earth</string>
+			<key>Composer</key><string>Steve Mac;Edward Christopher Sheeran;John Mcdaid</string>
+			<key>Album</key><string>Shape of You - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7303946</integer>
+			<key>Total Time</key><integer>204761</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-02-07T01:29:23Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-02-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Shape of You - Single</string>
+			<key>Sort Artist</key><string>Walk Off the Earth</string>
+			<key>Sort Name</key><string>Shape of You</string>
+			<key>Persistent ID</key><string>C59FA391CA2CAC33</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2871</key>
+		<dict>
+			<key>Track ID</key><integer>2871</integer>
+			<key>Name</key><string>I Can't Feel My Face</string>
+			<key>Artist</key><string>Walk Off the Earth</string>
+			<key>Album Artist</key><string>Walk Off the Earth</string>
+			<key>Composer</key><string>Abel Tesfaye, Max Martin, Savan Kotecha &#38; Peter Svensson</string>
+			<key>Album</key><string>I Can't Feel My Face - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8078912</integer>
+			<key>Total Time</key><integer>219760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2020-02-07T01:29:45Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-08-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Can't Feel My Face - Single</string>
+			<key>Sort Artist</key><string>Walk Off the Earth</string>
+			<key>Sort Name</key><string>I Can't Feel My Face</string>
+			<key>Persistent ID</key><string>FE98181E58A2579A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2874</key>
+		<dict>
+			<key>Track ID</key><integer>2874</integer>
+			<key>Name</key><string>Old Town Road</string>
+			<key>Artist</key><string>Walk Off the Earth</string>
+			<key>Album Artist</key><string>Walk Off the Earth</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>Old Town Road - Single</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5703005</integer>
+			<key>Total Time</key><integer>156848</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-02-07T01:29:55Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-04-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Old Town Road - Single</string>
+			<key>Sort Artist</key><string>Walk Off the Earth</string>
+			<key>Sort Name</key><string>Old Town Road</string>
+			<key>Persistent ID</key><string>1CAFF9E2EE6561B1</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2877</key>
+		<dict>
+			<key>Track ID</key><integer>2877</integer>
+			<key>Name</key><string>Havana (feat. Jocelyn Alice &#38; Krnfx)</string>
+			<key>Artist</key><string>Walk Off the Earth</string>
+			<key>Album Artist</key><string>Walk Off the Earth</string>
+			<key>Album</key><string>Havana (feat. Jocelyn Alice &#38; KRNFX) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6839373</integer>
+			<key>Total Time</key><integer>190559</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-02-07T01:35:09Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Havana (feat. Jocelyn Alice &#38; KRNFX) - Single</string>
+			<key>Sort Artist</key><string>Walk Off the Earth</string>
+			<key>Sort Name</key><string>Havana (feat. Jocelyn Alice &#38; Krnfx)</string>
+			<key>Persistent ID</key><string>9E7CC3E010FBE439</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2880</key>
+		<dict>
+			<key>Track ID</key><integer>2880</integer>
+			<key>Name</key><string>Whatcha Say</string>
+			<key>Artist</key><string>Jason Derulo</string>
+			<key>Album Artist</key><string>Jason Derulo</string>
+			<key>Composer</key><string>Jason Desrouleaux, Jonathan Rotem, Kisean Anderson &#38; Imogen Heap</string>
+			<key>Album</key><string>Jason Derulo</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7851741</integer>
+			<key>Total Time</key><integer>221253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2020-02-15T17:52:15Z</date>
+			<key>Date Added</key><date>2021-08-09T13:38:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3712306827</integer>
+			<key>Play Date UTC</key><date>2021-08-20T10:20:27Z</date>
+			<key>Release Date</key><date>2009-05-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jason Derulo</string>
+			<key>Sort Artist</key><string>Jason Derulo</string>
+			<key>Sort Name</key><string>Whatcha Say</string>
+			<key>Persistent ID</key><string>79A3F1C5E56E83B5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2883</key>
+		<dict>
+			<key>Track ID</key><integer>2883</integer>
+			<key>Name</key><string>Dance, Dance</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album Artist</key><string>Fall Out Boy</string>
+			<key>Composer</key><string>Pete Wentz, Patrick Stump, Andy Hurley &#38; Joe Trohman</string>
+			<key>Album</key><string>From Under the Cork Tree</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6607397</integer>
+			<key>Total Time</key><integer>180267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2020-02-26T16:04:37Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3666405941</integer>
+			<key>Play Date UTC</key><date>2020-03-07T05:05:41Z</date>
+			<key>Release Date</key><date>2005-05-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>From Under the Cork Tree</string>
+			<key>Sort Artist</key><string>Fall Out Boy</string>
+			<key>Sort Name</key><string>Dance, Dance</string>
+			<key>Persistent ID</key><string>6CFDA8A96470DC5A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2886</key>
+		<dict>
+			<key>Track ID</key><integer>2886</integer>
+			<key>Name</key><string>Centuries</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album Artist</key><string>Fall Out Boy</string>
+			<key>Composer</key><string>Jonathan Rotem, Pete Wentz, Patrick Stump, Joe Trohman, Andy Hurley, Michael Fonseca, Raja Kumari, Justin Tranter &#38; Suzanne Vega</string>
+			<key>Album</key><string>American Beauty / American Psycho</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8401250</integer>
+			<key>Total Time</key><integer>228348</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2020-02-26T16:04:51Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>American Beauty / American Psycho</string>
+			<key>Sort Artist</key><string>Fall Out Boy</string>
+			<key>Sort Name</key><string>Centuries</string>
+			<key>Persistent ID</key><string>60FB22A57B328255</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2889</key>
+		<dict>
+			<key>Track ID</key><integer>2889</integer>
+			<key>Name</key><string>High Hopes</string>
+			<key>Artist</key><string>Panic! At the Disco</string>
+			<key>Album Artist</key><string>Panic! At the Disco</string>
+			<key>Composer</key><string>Brendon Urie, Ilsey Juber, Jake Sinclair, Jenny Owen Youngs, Jonas Jeberg, Lauren Pritchard, Sam Hollander, Tayla Parx &#38; William Lobbin Bean</string>
+			<key>Album</key><string>Pray for the Wicked</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6801847</integer>
+			<key>Total Time</key><integer>190947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2020-03-02T16:58:29Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-05-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pray for the Wicked</string>
+			<key>Sort Artist</key><string>Panic! At the Disco</string>
+			<key>Sort Name</key><string>High Hopes</string>
+			<key>Persistent ID</key><string>B5C5C2AAFFAF39DD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2892</key>
+		<dict>
+			<key>Track ID</key><integer>2892</integer>
+			<key>Name</key><string>Sugar, We're Goin Down</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album Artist</key><string>Fall Out Boy</string>
+			<key>Composer</key><string>Pete Wentz, Patrick Stump, Andy Hurley &#38; Joe Trohman</string>
+			<key>Album</key><string>From Under the Cork Tree</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8132765</integer>
+			<key>Total Time</key><integer>229093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2020-03-07T05:05:08Z</date>
+			<key>Date Added</key><date>2020-03-07T05:05:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3712307656</integer>
+			<key>Play Date UTC</key><date>2021-08-20T10:34:16Z</date>
+			<key>Release Date</key><date>2005-04-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>From Under the Cork Tree</string>
+			<key>Sort Artist</key><string>Fall Out Boy</string>
+			<key>Sort Name</key><string>Sugar, We're Goin Down</string>
+			<key>Persistent ID</key><string>136A5136DA358541</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2895</key>
+		<dict>
+			<key>Track ID</key><integer>2895</integer>
+			<key>Name</key><string>My Songs Know What You Did In the Dark (Light Em Up)</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album Artist</key><string>Fall Out Boy</string>
+			<key>Composer</key><string>Fall Out Boy, Patrick Stump, Pete Wentz, Joe Trohman, Andy Hurley, Butch Walker &#38; John Hill</string>
+			<key>Album</key><string>Save Rock and Roll</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6751415</integer>
+			<key>Total Time</key><integer>186867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2020-03-07T05:05:24Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-02-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Save Rock and Roll</string>
+			<key>Sort Artist</key><string>Fall Out Boy</string>
+			<key>Sort Name</key><string>My Songs Know What You Did In the Dark (Light Em Up)</string>
+			<key>Persistent ID</key><string>B51A7374121B4C69</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2898</key>
+		<dict>
+			<key>Track ID</key><integer>2898</integer>
+			<key>Name</key><string>Welcome Home</string>
+			<key>Artist</key><string>Coheed and Cambria</string>
+			<key>Album Artist</key><string>Coheed and Cambria</string>
+			<key>Composer</key><string>Claudio Sanchez, Travis Stever, Josh Eppard &#38; Michael Todd</string>
+			<key>Album</key><string>Good Apollo I'm Burning Star IV, Vol. 1 - From Fear Through the Eyes of Madness</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13775263</integer>
+			<key>Total Time</key><integer>374973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2020-03-09T16:53:48Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2005-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Good Apollo I'm Burning Star IV, Vol. 1 - From Fear Through the Eyes of Madness</string>
+			<key>Sort Artist</key><string>Coheed and Cambria</string>
+			<key>Sort Name</key><string>Welcome Home</string>
+			<key>Persistent ID</key><string>0E74C7932C0276BB</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2901</key>
+		<dict>
+			<key>Track ID</key><integer>2901</integer>
+			<key>Name</key><string>A Favor House Atlantic</string>
+			<key>Artist</key><string>Coheed and Cambria</string>
+			<key>Album Artist</key><string>Coheed and Cambria</string>
+			<key>Composer</key><string>Claudio Sanchez</string>
+			<key>Album</key><string>In Keeping Secrets of Silent Earth: 3</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8363030</integer>
+			<key>Total Time</key><integer>234702</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2020-03-09T16:53:53Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2003-10-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Keeping Secrets of Silent Earth: 3</string>
+			<key>Sort Artist</key><string>Coheed and Cambria</string>
+			<key>Sort Name</key><string>Favor House Atlantic</string>
+			<key>Persistent ID</key><string>11A5EDE5D6A8BCB4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2907</key>
+		<dict>
+			<key>Track ID</key><integer>2907</integer>
+			<key>Name</key><string>There's Nothing Holdin' Me Back</string>
+			<key>Artist</key><string>Shawn Mendes</string>
+			<key>Album Artist</key><string>Shawn Mendes</string>
+			<key>Composer</key><string>Shawn Mendes, Teddy Geiger, Scott Harris &#38; Geoffrey Warburton</string>
+			<key>Album</key><string>Illuminate (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7157371</integer>
+			<key>Total Time</key><integer>199432</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2020-08-12T07:14:54Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-09-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Illuminate (Deluxe)</string>
+			<key>Sort Artist</key><string>Shawn Mendes</string>
+			<key>Sort Name</key><string>There's Nothing Holdin' Me Back</string>
+			<key>Persistent ID</key><string>46FABA7A2302901C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2910</key>
+		<dict>
+			<key>Track ID</key><integer>2910</integer>
+			<key>Name</key><string>Señorita</string>
+			<key>Artist</key><string>Shawn Mendes &#38; Camila Cabello</string>
+			<key>Album Artist</key><string>Shawn Mendes &#38; Camila Cabello</string>
+			<key>Composer</key><string>Shawn Mendes, Camila Cabello, Andrew Wotman, Benjamin Levin, Ali Tamposi, Charlotte Emma Aitchison, Jack Patterson &#38; Magnus August Hoiberg</string>
+			<key>Album</key><string>Señorita - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6840011</integer>
+			<key>Total Time</key><integer>190950</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-08-12T11:40:15Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-06-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Señorita - Single</string>
+			<key>Sort Artist</key><string>Shawn Mendes &#38; Camila Cabello</string>
+			<key>Sort Name</key><string>Señorita</string>
+			<key>Persistent ID</key><string>3D29291ED7180DC8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2913</key>
+		<dict>
+			<key>Track ID</key><integer>2913</integer>
+			<key>Name</key><string>Wig In a Box</string>
+			<key>Artist</key><string>Hedwig and the Angry Inch</string>
+			<key>Album Artist</key><string>Hedwig and the Angry Inch</string>
+			<key>Composer</key><string>Stephen Trask</string>
+			<key>Album</key><string>Hedwig and the Angry Inch (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Musicals</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11289924</integer>
+			<key>Total Time</key><integer>317800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2020-08-17T06:46:28Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1999-02-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hedwig and the Angry Inch (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Hedwig and the Angry Inch</string>
+			<key>Sort Name</key><string>Wig In a Box</string>
+			<key>Persistent ID</key><string>D51C3955BE7D173D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2916</key>
+		<dict>
+			<key>Track ID</key><integer>2916</integer>
+			<key>Name</key><string>Tear Me Down</string>
+			<key>Artist</key><string>Hedwig and the Angry Inch</string>
+			<key>Album Artist</key><string>Hedwig and the Angry Inch</string>
+			<key>Composer</key><string>Stephen Trask</string>
+			<key>Album</key><string>Hedwig and the Angry Inch (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Musicals</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8621992</integer>
+			<key>Total Time</key><integer>233667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2020-08-17T06:46:33Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1999-02-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hedwig and the Angry Inch (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Hedwig and the Angry Inch</string>
+			<key>Sort Name</key><string>Tear Me Down</string>
+			<key>Persistent ID</key><string>F2F4338AE9A42CEA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2985</key>
+		<dict>
+			<key>Track ID</key><integer>2985</integer>
+			<key>Name</key><string>Ramukanji (English Remix)</string>
+			<key>Artist</key><string>Onetox</string>
+			<key>Album Artist</key><string>Onetox</string>
+			<key>Album</key><string>Streets of Honiara - Affirmation IV</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7435236</integer>
+			<key>Total Time</key><integer>201947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-03-22T18:24:13Z</date>
+			<key>Date Added</key><date>2021-03-23T06:45:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3712331594</integer>
+			<key>Play Date UTC</key><date>2021-08-20T17:13:14Z</date>
+			<key>Release Date</key><date>2018-03-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Streets of Honiara - Affirmation IV</string>
+			<key>Sort Artist</key><string>Onetox</string>
+			<key>Sort Name</key><string>Ramukanji (English Remix)</string>
+			<key>Persistent ID</key><string>44EC91C39ED2729B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>2988</key>
+		<dict>
+			<key>Track ID</key><integer>2988</integer>
+			<key>Name</key><string>MONTERO (Call Me By Your Name) [SATAN'S EXTENDED VERSION]</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, Denzel Baptiste, David Biral, Omer Fedi &#38; Roy Lenzo</string>
+			<key>Album</key><string>MONTERO (Call Me By Your Name) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6263763</integer>
+			<key>Total Time</key><integer>170055</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-08-07T00:58:20Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-03-29T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO (Call Me By Your Name) - Single</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>MONTERO (Call Me By Your Name) [SATAN'S EXTENDED VERSION]</string>
+			<key>Persistent ID</key><string>D3081642FA751ED7</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2991</key>
+		<dict>
+			<key>Track ID</key><integer>2991</integer>
+			<key>Name</key><string>INDUSTRY BABY</string>
+			<key>Artist</key><string>Lil Nas X &#38; Jack Harlow</string>
+			<key>Album Artist</key><string>Lil Nas X &#38; Jack Harlow</string>
+			<key>Composer</key><string>Jack Harlow, Montero Hill, Kanye West, Denzel Baptiste, Nick Lee &#38; David Biral</string>
+			<key>Album</key><string>INDUSTRY BABY - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7628661</integer>
+			<key>Total Time</key><integer>212000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-08-07T00:59:40Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-07-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>INDUSTRY BABY - Single</string>
+			<key>Sort Artist</key><string>Lil Nas X &#38; Jack Harlow</string>
+			<key>Sort Name</key><string>INDUSTRY BABY</string>
+			<key>Persistent ID</key><string>4EC6223601E8DAA8</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2994</key>
+		<dict>
+			<key>Track ID</key><integer>2994</integer>
+			<key>Name</key><string>This Ain't a Scene, It's an Arms Race</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album Artist</key><string>Fall Out Boy</string>
+			<key>Composer</key><string>Andy Hurley, Joe Trohman, Patrick Stump &#38; Pete Wentz</string>
+			<key>Album</key><string>Infinity On High</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7956620</integer>
+			<key>Total Time</key><integer>212040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-20T09:58:21Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-01-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Infinity On High</string>
+			<key>Sort Artist</key><string>Fall Out Boy</string>
+			<key>Sort Name</key><string>This Ain't a Scene, It's an Arms Race</string>
+			<key>Persistent ID</key><string>45DE5021BE9C3758</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>2997</key>
+		<dict>
+			<key>Track ID</key><integer>2997</integer>
+			<key>Name</key><string>Thnks Fr Th Mmrs</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album Artist</key><string>Fall Out Boy</string>
+			<key>Composer</key><string>Andy Hurley, Joe Trohman, Patrick Stump &#38; Pete Wentz</string>
+			<key>Album</key><string>Infinity On High</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8029843</integer>
+			<key>Total Time</key><integer>203507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-20T09:58:45Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-02-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Infinity On High</string>
+			<key>Sort Artist</key><string>Fall Out Boy</string>
+			<key>Sort Name</key><string>Thnks Fr Th Mmrs</string>
+			<key>Persistent ID</key><string>8474F723160C4E9E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3000</key>
+		<dict>
+			<key>Track ID</key><integer>3000</integer>
+			<key>Name</key><string>Irresistible (feat. Demi Lovato)</string>
+			<key>Artist</key><string>Fall Out Boy</string>
+			<key>Album Artist</key><string>Fall Out Boy</string>
+			<key>Composer</key><string>Fall Out Boy, Andy Hurley, Joseph Trohman, Patrick Vaughn Stump &#38; Pete Wentz</string>
+			<key>Album</key><string>Irresistible (feat. Demi Lovato) - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7351626</integer>
+			<key>Total Time</key><integer>205851</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2021-09-20T09:59:38Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-10-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Irresistible (feat. Demi Lovato) - Single</string>
+			<key>Sort Artist</key><string>Fall Out Boy</string>
+			<key>Sort Name</key><string>Irresistible (feat. Demi Lovato)</string>
+			<key>Persistent ID</key><string>E4179394930B48F0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3003</key>
+		<dict>
+			<key>Track ID</key><integer>3003</integer>
+			<key>Name</key><string>THATS WHAT I WANT</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, Omer Fedi, Blake Slatkin, Ryan Tedder &#38; Keegan Bach</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5338306</integer>
+			<key>Total Time</key><integer>143901</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>THATS WHAT I WANT</string>
+			<key>Persistent ID</key><string>E8B0EC07B2B8F4CF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3006</key>
+		<dict>
+			<key>Track ID</key><integer>3006</integer>
+			<key>Name</key><string>INDUSTRY BABY</string>
+			<key>Artist</key><string>Lil Nas X &#38; Jack Harlow</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Jack Harlow, Montero Hill, David Biral, Denzel Baptiste, Nick Lee &#38; Kanye West</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7641810</integer>
+			<key>Total Time</key><integer>212353</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-07-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X &#38; Jack Harlow</string>
+			<key>Sort Name</key><string>INDUSTRY BABY</string>
+			<key>Persistent ID</key><string>F42A195A13A4F059</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3009</key>
+		<dict>
+			<key>Track ID</key><integer>3009</integer>
+			<key>Name</key><string>SCOOP (feat. Doja Cat)</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, David Biral, Amala Zandile Dlamini, Denzel Baptiste &#38; Roy Lenzo</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6291343</integer>
+			<key>Total Time</key><integer>174164</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>SCOOP (feat. Doja Cat)</string>
+			<key>Persistent ID</key><string>0A05BA2B790A9D0E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3012</key>
+		<dict>
+			<key>Track ID</key><integer>3012</integer>
+			<key>Name</key><string>THE ART OF REALIZATION</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, Denzel Baptiste, David Biral &#38; Roy Lenzo</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>1333727</integer>
+			<key>Total Time</key><integer>24006</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>ART OF REALIZATION</string>
+			<key>Persistent ID</key><string>299E49EFB3CBC999</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3015</key>
+		<dict>
+			<key>Track ID</key><integer>3015</integer>
+			<key>Name</key><string>DEAD RIGHT NOW</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, Denzel Baptiste, David Biral, Jasper Harris &#38; Thomas James Levesque</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7879207</integer>
+			<key>Total Time</key><integer>221203</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>DEAD RIGHT NOW</string>
+			<key>Persistent ID</key><string>F92D4FBF5C9E5224</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3018</key>
+		<dict>
+			<key>Track ID</key><integer>3018</integer>
+			<key>Name</key><string>MONTERO (Call Me By Your Name)</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, Denzel Baptiste, Omer Fedi, David Biral &#38; Roy Lenzo</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5155530</integer>
+			<key>Total Time</key><integer>137704</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-03-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>MONTERO (Call Me By Your Name)</string>
+			<key>Persistent ID</key><string>33447B5A99377322</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3021</key>
+		<dict>
+			<key>Track ID</key><integer>3021</integer>
+			<key>Name</key><string>LOST IN THE CITADEL</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill &#38; John Cunningham</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6284168</integer>
+			<key>Total Time</key><integer>170323</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>LOST IN THE CITADEL</string>
+			<key>Persistent ID</key><string>8A2AC66F6B7B48EC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3024</key>
+		<dict>
+			<key>Track ID</key><integer>3024</integer>
+			<key>Name</key><string>ONE OF ME (feat. Elton John)</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, Jasper Sheff, John Cunningham &#38; Isley Juber</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6294414</integer>
+			<key>Total Time</key><integer>161667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>ONE OF ME (feat. Elton John)</string>
+			<key>Persistent ID</key><string>5B478DB81C41B02E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3027</key>
+		<dict>
+			<key>Track ID</key><integer>3027</integer>
+			<key>Name</key><string>DOLLA SIGN SLIME (feat. Megan Thee Stallion)</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, David Biral, Denzel Baptiste, Nick Lee &#38; Megan Pete</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5342671</integer>
+			<key>Total Time</key><integer>145075</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>DOLLA SIGN SLIME (feat. Megan Thee Stallion)</string>
+			<key>Persistent ID</key><string>00B2264D7706F0C1</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3030</key>
+		<dict>
+			<key>Track ID</key><integer>3030</integer>
+			<key>Name</key><string>SUN GOES DOWN</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, Denzel Baptiste, David Biral, Omer Fedi, Roy Lenzo, Andrew Luce, Michael Olmo, Keegan Bach &#38; Blake Slatkin</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6127077</integer>
+			<key>Total Time</key><integer>168034</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-05-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>SUN GOES DOWN</string>
+			<key>Persistent ID</key><string>34B1B244C4D432A9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3033</key>
+		<dict>
+			<key>Track ID</key><integer>3033</integer>
+			<key>Name</key><string>TALES OF DOMINICA</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, Denzel Baptiste, David Biral, Omer Fedi &#38; Roy Lenzo</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5389901</integer>
+			<key>Total Time</key><integer>146006</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>TALES OF DOMINICA</string>
+			<key>Persistent ID</key><string>789DF1B21753C57C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3036</key>
+		<dict>
+			<key>Track ID</key><integer>3036</integer>
+			<key>Name</key><string>LIFE AFTER SALEM</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, Jasper Sheff, Carter Lang &#38; John Cunningham</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7509962</integer>
+			<key>Total Time</key><integer>210682</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>LIFE AFTER SALEM</string>
+			<key>Persistent ID</key><string>05D0532997C0FE88</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3039</key>
+		<dict>
+			<key>Track ID</key><integer>3039</integer>
+			<key>Name</key><string>VOID</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, John Cunningham &#38; Carter Lang</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8757421</integer>
+			<key>Total Time</key><integer>248407</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>VOID</string>
+			<key>Persistent ID</key><string>239BA7EB69F10275</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3042</key>
+		<dict>
+			<key>Track ID</key><integer>3042</integer>
+			<key>Name</key><string>DONT WANT IT</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, Denzel Baptiste, David Biral, Nicholas Mira &#38; Dorien Theus</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4903940</integer>
+			<key>Total Time</key><integer>130927</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>DONT WANT IT</string>
+			<key>Persistent ID</key><string>6D6307A7860286E9</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>3045</key>
+		<dict>
+			<key>Track ID</key><integer>3045</integer>
+			<key>Name</key><string>AM I DREAMING (feat. Miley Cyrus)</string>
+			<key>Artist</key><string>Lil Nas X</string>
+			<key>Album Artist</key><string>Lil Nas X</string>
+			<key>Composer</key><string>Montero Hill, Denzel Baptiste, William K Ward, David Biral, Omer Fedi, Miley Cyrus &#38; Vincent Goodyer</string>
+			<key>Album</key><string>MONTERO</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6587015</integer>
+			<key>Total Time</key><integer>183241</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-09-21T04:43:58Z</date>
+			<key>Date Added</key><date>2021-09-27T07:01:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MONTERO</string>
+			<key>Sort Artist</key><string>Lil Nas X</string>
+			<key>Sort Name</key><string>AM I DREAMING (feat. Miley Cyrus)</string>
+			<key>Persistent ID</key><string>C6E21CD52B1DB683</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Coding</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>3141</integer>
+			<key>Playlist Persistent ID</key><string>C04158255B6BDE4E</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>1795</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2847</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2850</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2823</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2702</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2856</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2862</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2868</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2871</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2874</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2877</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2880</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2886</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2892</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2898</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2901</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2907</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2910</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2916</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2985</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2988</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2991</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3000</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3003</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3006</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3018</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3021</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3030</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3033</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3036</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3042</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3045</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

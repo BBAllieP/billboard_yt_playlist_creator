@@ -32,7 +32,7 @@ import os.path
 import time
 from ConfigParser import SafeConfigParser
 from datetime import datetime
-
+import os
 import httplib2
 
 # Google Data API
@@ -42,8 +42,8 @@ from oauth2client.file import Storage
 from oauth2client.client import flow_from_clientsecrets
 from oauth2client.tools import run_flow
 
-# billboard.py
-import billboard
+import csv
+
 
 
 class YoutubeAdapter(object):
@@ -196,23 +196,33 @@ class YoutubeAdapter(object):
         return "https://www.youtube.com/playlist?list={0}".format(pl_id)
 
 
-class BillboardAdapter(object):  # pylint: disable=too-few-public-methods
-    """An adapter class for the billboard.py library."""
-    @classmethod
-    def get_chart_data(cls, chart_id, date=None):
-        """Returns the chart data for a given chart and date. If no date is
-        given, it returns the current week's chart."""
-        return billboard.ChartData(chart_id, date)
+class song: 
+    def __init__(self, title, artist): 
+        self.title = title 
+        self.artist = artist
+
+class playlist:
+    def __init__(self, title, entries):
+        self.title = title
+        self.entries = entries
+
+
 
 
 class PlaylistCreator(object):
+
     """This class contains the logic needed to retrieve Billboard charts and
     create playlists from them."""
-    def __init__(self, logger, youtube, billboard_adapter):
+    def __init__(self, logger, youtube):
         self.logger = logger
         self.youtube = youtube
-        self.billboard = billboard_adapter
-
+    def get_playlist_data(self, playlist_in):
+        """Returns songs from tsv output from itunes"""
+        result = []
+        with open(playlist_in, 'rU') as tsv:
+            for line in csv.reader(tsv, dialect="excel-tab"):
+                result.append(song(line[0], line[1]))
+        return result
     def add_first_video_to_playlist(self, pl_id, search_query):
         """Does a search for videos and adds the first result to the given
         playlist"""
@@ -236,7 +246,7 @@ class PlaylistCreator(object):
                 break
 
             query = entry.artist + ' ' + entry.title
-            song_info = ('#' + str(entry.rank) + ': ' + entry.artist + ' - ' +
+            song_info = (entry.artist + ' - ' +
                          entry.title)
 
             self.logger.info('Adding %s', song_info)
@@ -244,21 +254,15 @@ class PlaylistCreator(object):
 
         self.logger.info("\n---\n")
 
-    def create_playlist_from_chart(self, chart_id, chart_name,
-                                   num_songs_phrase, web_url):
+    def create_playlist_from_file(self, playlist_file):
         """Create and populate a new playlist with the current Billboard chart
         with the given ID"""
         # Get the songs from the Billboard web page
-        chart = self.billboard.get_chart_data(chart_id)
-        chart_date = (datetime
-                      .strptime(chart.date, '%Y-%m-%d')
-                      .strftime("%B %d, %Y"))
+        new_playlist = playlist(os.path.splitext(os.path.basename(playlist_file))[0], self.get_playlist_data(playlist_file))
 
         # Create a new playlist, if it doesn't already exist
-        pl_title = "{0} - {1}".format(chart_name, chart_date)
-        pl_description = ("This playlist contains the " + num_songs_phrase +
-                          "songs in the " + chart_name + " Songs chart for "
-                          "the week of " + chart_date + ".  " + web_url)
+        pl_title = new_playlist.title
+        pl_description = ("This playlist contains songs imported from " + pl_title)
 
         # Check for an existing playlist with the same title
         if self.youtube.playlist_exists_with_title(pl_title):
@@ -269,58 +273,10 @@ class PlaylistCreator(object):
             return
 
         pl_id = self.youtube.create_new_playlist(pl_title, pl_description)
-        self.add_chart_entries_to_playlist(pl_id, chart.entries)
+        self.add_chart_entries_to_playlist(pl_id, new_playlist.entries)
         return
 
-    def create_all(self):
-        """Create all of the default playlists with this week's Billboard
-        charts."""
-        self.logger.info("### Script started at %s ###\n", time.strftime("%c"))
-
-        # Billboard Rock Songs
-        self.create_playlist_from_chart(
-            "rock-songs",
-            "Rock",
-            "top 50 ",
-            "http://www.billboard.com/charts/rock-songs",
-        )
-
-        # Billboard R&B/Hip-Hop Songs
-        self.create_playlist_from_chart(
-            "r-b-hip-hop-songs",
-            "R&B/Hip-Hop",
-            "top 50 ",
-            "http://www.billboard.com/charts/r-b-hip-hop-songs",
-        )
-
-        # Billboard Dance/Club Play Songs
-        self.create_playlist_from_chart(
-            "dance-club-play-songs",
-            "Dance/Club Play",
-            "top 50 ",
-            "http://www.billboard.com/charts/dance-club-play-songs",
-        )
-
-        # Billboard Pop Songs
-        self.create_playlist_from_chart(
-            "pop-songs",
-            "Pop",
-            "top 40 ",
-            "http://www.billboard.com/charts/pop-songs",
-        )
-
-        # Billboard Hot 100
-        self.create_playlist_from_chart(
-            "hot-100",
-            "Hot 100",
-            "",
-            "http://www.billboard.com/charts/hot-100",
-        )
-
-        self.logger.info("### Script finished at %s ###\n",
-                         time.strftime("%c"))
-
-
+    
 def load_config(logger):
     """Loads config values from the settings.cfg file in the script dir"""
     config_path = get_script_dir() + 'settings.cfg'
@@ -365,10 +321,9 @@ def main():
 
     config = load_config(logger)
     youtube = YoutubeAdapter(logger, config['api_key'], get_script_dir())
-    billboard_adapter = BillboardAdapter()
 
-    playlist_creator = PlaylistCreator(logger, youtube, billboard_adapter)
-    playlist_creator.create_all()
+    playlist_creator = PlaylistCreator(logger, youtube)
+    playlist_creator.create_playlist_from_file("Coding.txt")
 
 
 if __name__ == '__main__':
