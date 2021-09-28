@@ -48,6 +48,8 @@ This script depends on Python 2.7 and these Python packages:
    your browser. Save the file with the name `client_secrets.json` in the
    root directory of your clone of the git repository.
 
+6a. Export your current playlist from Apple Music/iTunes as a raw text file (not with encoding)
+
 7. Copy `settings-example.cfg` to `settings.cfg` and fill in the API key you
    created in step #5. Then run:
 
