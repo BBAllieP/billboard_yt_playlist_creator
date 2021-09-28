@@ -43,6 +43,10 @@ from oauth2client.client import flow_from_clientsecrets
 from oauth2client.tools import run_flow
 
 import csv
+import argparse
+ 
+ 
+
 
 
 
@@ -321,9 +325,17 @@ def main():
 
     config = load_config(logger)
     youtube = YoutubeAdapter(logger, config['api_key'], get_script_dir())
-
+    # Initialize parser
+    parser = argparse.ArgumentParser()
+    
+    # Adding optional argument
+    parser.add_argument("-i", "--Input", help = "Input playlist file")
+    
+    # Read arguments from command line
+    args = parser.parse_args()
     playlist_creator = PlaylistCreator(logger, youtube)
-    playlist_creator.create_playlist_from_file("Coding.txt")
+    file_path = args.Input
+    playlist_creator.create_playlist_from_file(file_path)
 
 
 if __name__ == '__main__':

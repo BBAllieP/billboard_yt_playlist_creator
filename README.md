@@ -52,7 +52,7 @@ This script depends on Python 2.7 and these Python packages:
    created in step #5. Then run:
 
    ```sh
-   $ pipenv run python createbillboardplaylist.py --noauth_local_webserver
+   $ pipenv run python importitunesplaylist.py -i <your input file path> --noauth_local_webserver
    ```
 
 8. Before the first time you run the script, you will need to create a YouTube
@@ -71,7 +71,7 @@ This script depends on Python 2.7 and these Python packages:
     arguments:
 
     ```sh
-    $ pipenv run python createbillboardplaylist.py
+    $ pipenv run python importitunesplaylist.py -i <your input file path>
     ```
 
 ## Troubleshooting
@@ -99,15 +99,6 @@ Then you can run them both with pipenv:
 ```
 $ pipenv run pylint *.py
 $ pipenv run flake8 *.py
-```
-
-### Testing
-
-The tests are written using the unittest module and can be run with this
-command:
-
-```
-$ pipenv run python createbillboardplaylist_test.py
 ```
 
 ## License
